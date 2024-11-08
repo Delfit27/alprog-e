@@ -1,0 +1,11 @@
+nim =  '24241153'
+nimAwal = 24
+nimAkhir = 53
+
+
+alas = nimAkhir
+tinggi  = nimAwal
+
+hasil = 0.5 * alas * tinggi
+
+print(f"hasil dari 1/2 x {alas} x {tinggi} adalah = {hasil}"
